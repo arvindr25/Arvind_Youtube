@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Arvind_Youtube</string>
+    <string name="appbar_scrolling_view_behavior" />
+    <string name="play_video" />
+    <string name="title_activity_standalone">StandaloneActivity</string>
+    <string name="pic" />
+    <string name="play_playlist" />
+</resources>
